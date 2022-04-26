@@ -743,7 +743,7 @@ a:hover {
 .about-mf .about-img {
   margin-bottom: 2rem;
   height: 12rem;
-  background-image: url(/assets/img/profilepic.jpeg);
+  background-image: url("../img/profilepic.jpeg");
   background-size: cover;
   background-position: top;
   border-radius: 10px;
